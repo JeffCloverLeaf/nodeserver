@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [![MEAN Logo](http://www.mean.io/img/logos/meanlogo.png)](http://mean.io/) MEAN Stack
 
 [![Build Status](https://travis-ci.org/linnovate/mean.svg?branch=master)](https://travis-ci.org/linnovate/mean)
@@ -195,3 +196,11 @@ heroku config:set NODE_ENV=production
 
 ## License
 [The MIT License](http://opensource.org/licenses/MIT)
+=======
+nodeserver
+==========
+Small node server to host the data containined in the countries.json file from the angular tutorial screencast repo.
+https://github.com/curran/screencasts/tree/gh-pages/introToAngular/examples/snapshots
+
+SmallNodeServer
+>>>>>>> 9de9ceef4983f55fd11b548bce0f9bb37482de7a
